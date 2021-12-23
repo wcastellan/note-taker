@@ -4,7 +4,7 @@ const saveData = require('../db/saveData');
 // get request
 router.get('/notes', (req, res) => {
     saveData
-        .retrieveNotes()
+        .retrieveNote()
         .then(notes => res.json(notes))
         .catch(err => res.status(500).json(err));
 });
