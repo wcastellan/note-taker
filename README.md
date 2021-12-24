@@ -12,7 +12,7 @@
   - [Additional Info](#additional-info)
 
   ## Links
-  **GitHub**: https://github.com/wcastellan/note-taker
+  **GitHub**: https://github.com/wcastellan/note-taker <br>
   **Heroku**: https://note-taker-92116.herokuapp.com/
 
   ## Description:
