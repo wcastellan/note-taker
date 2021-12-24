@@ -22,7 +22,8 @@
   The user should clone the repository and make sure express and inquirer modules are installed.  If they are going to test anything, be sure to also install jest.
 
   ## Usage:
-  Use 'npm start' to open the server.  Then in your web browser type in your localhost and PORT number (in this case 3001).
+  Use 'npm start' to open the server.  Then in your web browser type in your localhost and PORT number (in this case 3001). <br>
+  [](https://drive.google.com/file/d/1KoDvh6xAWzPHxgXo2p2-KMhYw1N4CXiL/view?usp=sharing)
 
   ## License:
   MIT
